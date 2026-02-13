@@ -17,13 +17,11 @@ Produzione Video: Editing e post-produzione per contenuti digitali dinamici.
 
 Digital Content: Generazione di materiale grafico e multimediale ottimizzato per il web.
 
-
-<pre>
-  ╔█╗  ╔█╗ ╔█████╗ ╔█╗     
-  ║██╗ ║█║ ║█╔═══╝ ║█║     
-  ║█╔█╗║█║ ║████╗  ║█║     
-  ║█║╚███║ ║█╔══╝  ║█║     
-  ║█║ ╚██║ ║█║     ║██████╗
-  ╚═╝  ╚═╝ ╚═╝     ╚══════╝
-</pre>
-
+'''text
+███╗   ██╗███████╗██╗     
+████╗  ██║██╔════╝██║     
+██╔██╗ ██║█████╗  ██║     
+██║╚██╗██║██╔══╝  ██║     
+██║ ╚████║██║     ███████╗
+╚═╝  ╚═══╝╚═╝     ╚══════╝
+'''
